@@ -18,7 +18,7 @@ El proyecto tiene como objetivo el desarrollo de una aplicación móvil enfocada
 
 ## Desarrolladores
 - `Scrum Master`: Fernando Velez Carmona.
-- `Desarrolladora `: Sergio Andrés Hidalgo Flórez.
+- `Desarrollador `: Sergio Andrés Hidalgo Flórez.
 - `Analista`: Santiago Enriquez Benavides.
 - `Product Owner`: Jheinner elias castellar.
 - `Administrador del Servidor`: Juan David Alvarez Palau.
