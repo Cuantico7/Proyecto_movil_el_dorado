@@ -1,4 +1,4 @@
-# Proyecto_movil_el_dorado.
+# Proyecto_Movil_El_Dorado.
 
 
 Repositorio del Ciclo 4  Diplomado en desarrollo Movil MinTIC 2022
