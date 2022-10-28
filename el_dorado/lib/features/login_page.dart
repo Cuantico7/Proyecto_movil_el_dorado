@@ -14,7 +14,6 @@ class _LoginPageState extends State<LoginPage> {
       appBar: AppBar(
         title: Text(
           "Ingresar",
-          style: TextStyle(textAlign: TextAlign.center),
         ),
       ),
       body: SafeArea(
