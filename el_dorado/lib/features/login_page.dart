@@ -1,7 +1,8 @@
 //import 'dart:html';
 
-import 'package:el_dorado/features/splash_page.dart';
+import 'splash_page.dart';
 import 'package:flutter/material.dart';
+
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
