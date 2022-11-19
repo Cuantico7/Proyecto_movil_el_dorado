@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708436311915",
+    "project_id": "eldorado-f5e47",
+    "storage_bucket": "eldorado-f5e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708436311915:android:c047a239d72be1cc04d62e",
+        "android_client_info": {
+          "package_name": "com.example.el_dorado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708436311915-qm19f63sfdi1afscf00hmmd1ve00vhds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3kGqLgWYOXs_4RUsHc7o6bVXWyhUnRx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708436311915-qm19f63sfdi1afscf00hmmd1ve00vhds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
